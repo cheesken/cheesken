@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Ananya 👋
 
 Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), with a B.S. in CS from UW-Madison and ~3 years at NetApp on the RAID/ONTAP team. Currently job searching for full-time SDE roles and internships.
