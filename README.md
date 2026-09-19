@@ -2,7 +2,7 @@
 
 Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), with a B.S. in CS from UW-Madison and ~3 years at NetApp on the RAID/ONTAP team. Currently job searching for full-time SDE roles and internships.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=cheesken&color=blueviolet&style=flat-square)
 
 ## Tech Stack
 
@@ -26,15 +26,15 @@ Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), 
 
 ## GitHub Stats
 
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheesken&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheesken&layout=compact&theme=radical)
 
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheesken/cheesken/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/cheesken/cheesken/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## ⚡ Beyond code
