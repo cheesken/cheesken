@@ -57,8 +57,6 @@ Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), 
 - **Text-to-SQL** — GNN-based schema selection + RL reranking on the BIRD benchmark
 - **Kernel Snapshots** — save/restore of Python kernel state
 - **CampusMarketplace** — full-stack React/Node/MongoDB marketplace app
-- **Desktop companion robot** — a glowing blob-faced robotics + app project
-- **govtapp** — AI + open data to surface corruption patterns in India
 
 ## GitHub Stats
 
