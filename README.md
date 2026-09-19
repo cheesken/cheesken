@@ -71,7 +71,7 @@ Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), 
   <img alt="Snake animation" src="https://raw.githubusercontent.com/cheesken/cheesken/output/github-contribution-grid-snake.svg">
 </picture>
 
-## ⚡ Beyond code
+## Beyond code
 
 Robotics tinkering, creative web aesthetics (Framer Motion, WebGL/Three.js), and a broad curiosity for history, politics, and economics.
 
