@@ -1,10 +1,10 @@
-# Hi, I'm Ananya 👋
+# Hi, I'm Ananya 
 
 Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), with a B.S. in CS from UW-Madison and ~3 years at NetApp on the RAID/ONTAP team. Currently job searching for full-time SDE roles and internships.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,7 +14,7 @@ Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🔭 What I'm working on
+## What I'm working on
 
 - **Engram** — CRDT-based distributed memory middleware for multi-agent LLM systems
 - **Jarvis** — a local-only, privacy-preserving personal memory system with semantic search (SJSU capstone)
@@ -24,13 +24,13 @@ Software engineer finishing my M.S. in Software Engineering at SJSU (Dec 2026), 
 - **Desktop companion robot** — a glowing blob-faced robotics + app project
 - **govtapp** — AI + open data to surface corruption patterns in India
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
